@@ -1,0 +1,7 @@
+.boxleft {
+  transform: translateX(400%);
+}
+
+.boxleft.show {
+  transform: translateX(0%);
+}
